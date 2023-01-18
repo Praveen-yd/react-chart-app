@@ -1,0 +1,13 @@
+.sidebar{
+    justify-content: center;
+    width:20%;
+    padding: 2em;
+  }
+
+  .heading{
+    padding-bottom:1em;
+  }
+
+  .sidebar-content{
+    padding-top: 1em;
+  }
